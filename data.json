@@ -1,0 +1,174 @@
+{
+  "user": {
+    "name": "Phạm Minh Lương",
+    "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+    "role": "@MinhLuong"
+  },
+  "friends": [
+    {
+      "name": "Thuỷ Nga",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    },
+    {
+      "name": "Doanh Thai Bui",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    },
+    {
+      "name": "Hùng Cường",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    },
+    {
+      "name": "Thu Thảo",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    },
+    {
+      "name": "Vũ Minh Thắng",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    },
+    {
+      "name": "Lan Anh Pham",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    },
+    {
+      "name": "Phạm Thanh Nam",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    },
+    {
+      "name": "Bích Diệp",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    },
+    {
+      "name": "Ninh Phạm",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    },
+    {
+      "name": "Chi Heulwen",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    },
+    {
+      "name": "Trần Kim Chi",
+      "avatar": "https://external-preview.redd.it/0Q9tN0yT2zwdu2i2PyHf2B_h1SB9D7PM_DA_3piI2j4.jpg?width=640&crop=smart&auto=webp&s=d535fc207451e965fd4702d4d797b6bbab478991",
+      "isOnline": true
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "role": "Developer",
+      "time": "2023-02-25T08:19:40.024Z",
+      "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quibusdam laudantium quisquam, aspernatur minus quas fugit dolorum in vitae voluptas corporis, nihil cum, dolor laborum non temporibus ea consectetur expedita.",
+      "media_type": "image",
+      "media_url": "https://static.lag.vn/upload/news/22/02/28/photo1644669320729-1644669321286_PSGT.jpg?w=800&encoder=wic&subsampling=444",
+      "likes": 1,
+      "comments": 14,
+      "shares": 3,
+      "commentsList": [
+        {
+          "id": 1,
+          "name": "Jane Smith",
+          "comment": "Great post!"
+        },
+        {
+          "id": 2,
+          "name": "Bob Johnson",
+          "comment": "Thanks for sharing."
+        }
+      ],
+      "isLiked": false
+    },
+    {
+      "id": "2",
+      "name": "Alice Brown",
+      "role": "Designer",
+      "time": "2023-01-25T08:19:40.024Z",
+      "content": "Another sample post content.",
+      "media_type": "image",
+      "media_url": "https://static.lag.vn/upload/news/22/02/28/photo1644669320729-1644669321286_PSGT.jpg?w=800&encoder=wic&subsampling=444",
+      "likes": 1,
+      "comments": 11,
+      "shares": 5,
+      "commentsList": [
+        {
+          "id": 1,
+          "name": "Charlie Davis",
+          "comment": "Interesting read."
+        },
+        {
+          "id": 2,
+          "name": "Dana Lee",
+          "comment": "I learned a lot."
+        }
+      ],
+      "isLiked": false
+    },
+    {
+      "id": "3",
+      "name": "đâsdasd",
+      "role": "Designer",
+      "time": "2023-04-25T08:19:40.024Z",
+      "content": "Another sample post content.",
+      "media_type": "image",
+      "media_url": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "likes": 1,
+      "comments": 16,
+      "shares": 10,
+      "commentsList": [
+        {
+          "id": 1,
+          "name": "Charlie Davis",
+          "comment": "Interesting read."
+        },
+        {
+          "id": 2,
+          "name": "Dana Lee",
+          "comment": "I learned a lot."
+        }
+      ],
+      "isLiked": false
+    },
+    {
+      "id": "ef41",
+      "content": "đá21312",
+      "likes": 1,
+      "name": "Minh Lương",
+      "role": "@MinhLuong",
+      "time": "2025-02-25T08:10:38.739Z",
+      "isLiked": true
+    },
+    {
+      "id": "a3ba",
+      "content": "fsd2324",
+      "name": "Minh Lương",
+      "likes": 1,
+      "role": "@MinhLuong",
+      "time": "2025-02-25T08:14:14.889Z",
+      "isLiked": true
+    },
+    {
+      "id": "5eb0",
+      "content": "mjkhgjer5t345",
+      "name": "Minh Lương",
+      "likes": 0,
+      "role": "@MinhLuong",
+      "time": "2025-02-25T08:19:40.024Z"
+    },
+    {
+      "id": "0812",
+      "content": "jhk43534",
+      "name": "Minh Lương",
+      "role": "@MinhLuong",
+      "time": "2025-02-25T08:57:57.463Z"
+    }
+  ]
+}
